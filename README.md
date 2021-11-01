@@ -1,0 +1,2 @@
+# fruitscoin
+future fruit project
